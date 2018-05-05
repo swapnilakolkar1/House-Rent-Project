@@ -1,0 +1,15 @@
+.price {
+  font-size: large;
+  color: coral;
+}
+.subtitle1 {
+  width: 100%;
+  background-color: coral;
+}
+.widht-50 {
+  width: 50%;
+  flex: 1;
+}
+.displayFlex {
+  display: flex;
+}

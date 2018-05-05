@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "address": "Pune",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "53610",
+    "photo": "164306/pexels-photo-164306",
+    "likes": 5
+  },
+  {
+    "id": 2,
+    "address": "Mumbai",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "259602",
+    "photo": "463734/pexels-photo-463734",
+    "likes": 6
+  },
+  {
+    "id": 3,
+    "address": "Mumbai",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "461024",
+    "photo": "259751/pexels-photo-259751",
+    "likes": 56
+  },
+  {
+    "id": 4,
+    "address": "Hyderabad",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "277667",
+    "photo": "164306/pexels-photo-164306",
+    "likes": 59
+  },
+  {
+    "id": 5,
+    "address": "Aurangabad",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "32870",
+    "photo": "53610/large-home-residential-house-architecture-53610",
+    "likes": 70
+  },
+  {
+    "id": 6,
+    "address": "Bangalor",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "462358",
+    "photo": "259751/pexels-photo-259751",
+    "likes": 40
+  },
+  {
+    "id": 7,
+    "address": "Delhi",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "259600",
+    "photo": "259685/pexels-photo-259685"
+  },
+  {
+    "id": 8,
+    "address": "Aurangabad",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "186077",
+    "photo": "259646/pexels-photo-259646",
+    "likes": 10
+  },
+  {
+    "id": 9,
+    "address": "Nagapur",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "106399",
+    "photo": "221024/pexels-photo-221024",
+    "likes": 99
+  },
+  {
+    "id": 10,
+    "address": "Chennai",
+    "county": " india",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultricies nec turpis a efficitur. Ut ultricies aliquet pretium. Duis convallis posuere leo quis dapibus. In ante enim, luctus eget fringilla nec, venenatis ut velit. Ut nec orci nec nulla maximus imperdiet. Nullam tristique lacinia lacus, vel venenatis lorem sagittis malesuada. Ut eget diam leo. Mauris lobortis massa in odio auctor, nec maximus augue tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dictum condimentum nisl sit amet auctor. Cras rhoncus, massa eu blandit vestibulum, enim enim auctor magna, ut mattis lorem nisl vitae ante. Vivamus blandit est sed erat venenatis efficitur. Proin interdum tristique suscipit. Curabitur vel ullamcorper velit. ",
+    "price": "323780",
+    "photo": "53610/large-home-residential-house-architecture-53610",
+    "likes": 36
+  }
+]
